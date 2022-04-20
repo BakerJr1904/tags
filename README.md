@@ -6,7 +6,7 @@ Git Tags are specific reference points in the Git history. Git tags are used to 
 1. Click Audience.
 2. Click Audience dashboard.
 3. If you have more than one audience, click the Current audience drop-down and choose the one you want to work with.
-. Click the Manage Audience drop-down and choose Manage contacts.
+4. Click the Manage Audience drop-down and choose Manage contacts.
 6. Click Tags.
 7. Click Create Tag.
 8. Type the name of your tag, and click Create.
